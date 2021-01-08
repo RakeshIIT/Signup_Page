@@ -1,2 +1,3 @@
-# Signup_Page
-Fitnesa Channel Signup page
+# Newsletter Signup with Mailchimp.
+
+Be sure to use 'npm install' to download dependencies. 
